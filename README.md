@@ -1,4 +1,5 @@
 # WEB_crawler
+Позволяет искать определённые слова, просматривая все страницы указанного сайта
 
 1) Установить Python-библиотеки:
 py -m pip install requests beautifulsoup4 asyncio aiohttp
